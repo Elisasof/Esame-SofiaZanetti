@@ -32,7 +32,7 @@ Installazione:
 Nella cartella client, fare i comandi
 - npm install
 - npm run serve
-- 
+
 Nellla cartella server, modificare il file '.env' inserendo il nome del database creato su xampp, poi fare i comandi:
 - composer update
 - php artisan migrate
